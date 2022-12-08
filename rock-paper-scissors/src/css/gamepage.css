@@ -1,0 +1,28 @@
+
+.Gamepage {
+background-color:rgb(70, 115, 213);
+min-height: 100vh;
+}
+
+.Button:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(3, 217, 3);
+}
+
+.Choices:hover {
+    box-shadow: 0 15px 15px 0 rgba(253, 238, 76, 0.2), 0 15px 15px 0 rgba(253, 238, 76, 0.2);
+}
+
+.Title {
+    color:aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.GridScpacingChoices {
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+
+.GridSpacingButton { 
+    margin-bottom: 7%;
+}
